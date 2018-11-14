@@ -13,7 +13,7 @@ namespace ReadFromFile
             {
                 Console.WriteLine(line);
             }
-            Console.WriteLine("Would you like to run the Program? Press y to open it or n to exit the program");
+            Console.WriteLine("Hello! Would you like to run the Program? Press y to open it or n to exit the program");
             var userInput = Console.ReadKey();
 
 
